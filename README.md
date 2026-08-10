@@ -70,9 +70,6 @@ calculadora-python-gui/
 ├── .gitignore
 └── LICENSE
 ```
-
-## 🎯 Objetivo profissional
-
 Este projeto demonstra:
 
 - Desenvolvimento em Python
