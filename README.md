@@ -2,7 +2,7 @@
 
 Projeto de uma calculadora desktop desenvolvida em **Python** com interface gráfica usando **Tkinter**.
 
-O projeto foi criado como exemplo de portfólio para demonstrar conhecimentos em Python, programação orientada a objetos, eventos de interface gráfica e organização de código.
+O projeto foi criado como praticas de python simples para demonstrar conhecimentos em Python, programação orientada a objetos, eventos de interface gráfica e organização de código.
 
 ## 🚀 Funcionalidades
 
