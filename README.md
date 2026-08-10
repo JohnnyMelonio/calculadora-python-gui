@@ -84,8 +84,4 @@ Este projeto demonstra:
 - Documentação técnica
 - Versionamento com Git
 
-## 👨‍💻 Autor
-
-Projeto desenvolvido para portfólio profissional em TI.
-
 > Próximos passos possíveis: histórico de operações, tema claro/escuro, testes automatizados, empacotamento em `.exe` e pipeline de CI/CD.
